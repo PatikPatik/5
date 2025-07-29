@@ -1,6 +1,0 @@
-msgid ""
-msgstr ""
-"Language: ru\n"
-
-msgid "Balance"
-msgstr "Баланс"
